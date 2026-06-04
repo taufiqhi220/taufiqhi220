@@ -21,8 +21,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taufiqhi220&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taufiqhi220&theme=github-dark-blue&hide_border=true&border_radius=10" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=taufiqhi220&theme=github-dark-blue&hide_border=true&border_radius=10" height="165" />
 </div>
 
 ---
