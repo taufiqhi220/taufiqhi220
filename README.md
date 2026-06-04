@@ -18,12 +18,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=taufiqhi220&theme=github-dark-blue&hide_border=true&border_radius=10" height="165" />
-</div>
-
 ---
 
 <div align="center">
